@@ -1,5 +1,6 @@
 {
   "name": "dkeeper_assets",
+  "homepage": ".",
   "version": "0.1.0",
   "description": "Internet Computer starter application",
   "keywords": [
