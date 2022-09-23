@@ -1,8 +1,4 @@
 # dkeeper
-
-[![Build Status](https://travis-ci.org/andrewchambers/dkeeper.svg?branch=master)](https://travis-ci.org/andrewchambers/dkeeper)
-
-
 ## Introduction
  This is a clone of google keeper, the front end is written in Javascript and the backend is written in Motoko. In this you can add notes and lists and also delete them. The data base is stored in backend and the front end is used to interact with the backend. 
 
